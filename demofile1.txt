@@ -1,9 +1,6 @@
 this is file1 created today
 <<<<<<< HEAD
 this is for commited revert
-<<<<<<< HEAD
 check
 =======
 >>>>>>> parent of 92a294c... frst revert
-=======
->>>>>>> parent of e9259a5... check
